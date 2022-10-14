@@ -107,11 +107,6 @@
             android:name="org.apache.http.legacy"
             android:required="false" />
 
-        <!-- SMS 수신부분 정의 -->
-        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3940256099942544~3347511713"/>
-
-        <!-- 카카오 지도 key -->
-        <meta-data android:name="com.kakao.sdk.AppKey" android:value="56b9c3f9c686b60e73604a4665ddff25"/>
     </application>
 
 </manifest>
