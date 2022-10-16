@@ -41,7 +41,7 @@
 
 ## Environment
 
-> Android Studio for MAC(Window)
+> Android Studio for MAC
 > 
 > FireBase : Image Server
 
